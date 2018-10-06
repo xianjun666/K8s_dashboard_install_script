@@ -1,0 +1,1 @@
+# K8s_dashboard_install_script
